@@ -2,3 +2,4 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Excellent+knowledge+of+Core+subjects;Ability+to+grasp+the+new+skills+quickly;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
+![alt text](http://url/to/img.png)
