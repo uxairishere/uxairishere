@@ -9,3 +9,6 @@
 </p>
 <h1>My Portfilio</h1>
 <a href="http://uxairabbas.herokuapp.com">Visit my portfolio by clicking here</a>
+<p>or scan the QR code to navigate<p>
+<img width="50%" src="pqrcode.png" alt="QR Code Loading..."/>
+
