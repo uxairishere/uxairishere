@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Excellent+knowledge+of+Core+subjects;Ability+to+grasp+the+new+skills+quickly;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 <h1>My Portfilio</h1>
-<a href="http://uxairabbas.herokuapp.com">Visit my portfolio by clicking here</a>
+<a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
 <p>or scan the QR code to navigate<p>
 <img width="150" src="pqrcode.png" alt="QR Code Loading..."/>
 
