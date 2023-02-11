@@ -13,18 +13,18 @@
 </p>
 <div align="center">
   <!--   react -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
+  <img style="margin-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
   <!--   node -->
-  <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
-  <img src="https://www.axonius.com/hs-fs/hubfs/mongodb_adapter.png?length=600&name=mongodb_adapter.png" width="50"/>
+  <img style="margin-right: 30px;" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="50"/>
+  <img style="margin-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50"/>
+  <img style="margin-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
+  <img style="margin-right: 30px;" src="https://www.axonius.com/hs-fs/hubfs/mongodb_adapter.png?length=600&name=mongodb_adapter.png" width="50"/>
   <!--   firebase -->
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/firebase-1-logo.png" width="50"/> 
+  <img style="margin-right: 30px;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/firebase-1-logo.png" width="50"/> 
   <!--   mysql -->
-  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="50"/> 
+  <img style="margin-right: 30px;" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="50"/> 
   <!--   mysql -->
-  <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" width="50"/> 
+  <img style="margin-right: 30px;" src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" width="50"/> 
   
   
   
