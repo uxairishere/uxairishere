@@ -13,6 +13,10 @@
 </p>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)" height="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg)" width="50"/>
+  
+  
 </div>
 <h1>My Portfilio</h1>
 <a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
