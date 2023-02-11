@@ -15,12 +15,12 @@
   <!--   react -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
   <!--   node -->
-  <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50"/>
+  <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
   <img src="https://www.axonius.com/hs-fs/hubfs/mongodb_adapter.png?length=600&name=mongodb_adapter.png" width="50"/>
   <!--   firebase -->
-  <img src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" width="50"/> 
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/firebase-1-logo.png" width="50"/> 
   <!--   mysql -->
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="50"/> 
   <!--   mysql -->
