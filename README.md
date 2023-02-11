@@ -11,6 +11,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Excellent+knowledge+of+Core+subjects;Ability+to+grasp+the+new+skills+quickly;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
+</div>
 <h1>My Portfilio</h1>
 <a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
 <p>or scan the QR code to navigate<p>
