@@ -21,7 +21,7 @@
 <!--   npm -->
   <img src="https://images.ctfassets.net/egbrauz6p94g/6mUPVxtKcKuC0TF52HLd6C/81b1c80b9569c56ae42900fb1ba2004e/npmlogo.png" width="50"/>
 <!--   tailwind  -->
-  <img src="https://d4.alternativeto.net/uaUADPLN5QTqRHNl0qujQbTXzm5wjsAq5K9YylGjdQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90YWlsd2luZC1jc3NfMTM2NjE5LnBuZw.png" width="50"/>
+  <img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" width="50"/>
 <!--   css  -->
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50"/>
 <!--   jira  -->
