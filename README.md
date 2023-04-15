@@ -7,7 +7,6 @@
 </span>
 </div>
 
-
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Competitive+Programmer;Excellent+knowledge+of+Core+subjects;Ability+to+grasp+the+new+skills+quickly;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
@@ -15,9 +14,9 @@
 <!-- react -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/>
 <!-- redux -->
-<img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="50"/>
+<img src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" width="50"/>
 <!-- next -->
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-    logo.png" width="50"/>
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="50"/>
 <!-- node -->
 <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="50"/>
 <!-- nest js -->
@@ -53,10 +52,6 @@
 <!-- git -->
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/> 
  
-  
-  
-  
-  
 </div>
 <h1>My Portfilio</h1>
 <a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
