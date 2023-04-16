@@ -33,8 +33,12 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="50"/>
 <!-- javascript -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
-<!--   typescript  -->
+<!-- typescript  -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50"/>
+<!-- python  -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50"/>
+<!-- fastapi  -->
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50"/>
 <!-- mongoDB -->
 <img src="https://www.axonius.com/hs-fs/hubfs/mongodb_adapter.png?length=600&name=mongodb_adapter.png" width="50"/>
 <!-- mysql -->
@@ -43,6 +47,8 @@
 <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" width="50"/> 
 <!-- contentful -->
 <img src="https://images.ctfassets.net/c63hsprlvlya/5BiLk3V4KjUtCG1SCpSl2H/6923b4e4d099c8a3b5211be2741f4b50/Contentful_icon_-_light_1.png?w=1200" width="50"/> 
+<!-- uvicorn -->
+<img src="https://raw.githubusercontent.com/tomchristie/uvicorn/master/docs/uvicorn.png" width="50"/> 
 <!-- firebase -->
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/firebase-1-logo.png" width="50"/> 
 <!-- netlify -->
@@ -57,5 +63,5 @@
 <a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
 <p>or scan the QR code to navigate<p>
 <img width="150" src="pqrcode.png" alt="QR Code Loading..."/>
- ![](https://komarev.com/ghpvc/?username=your-github-username)
+ ![](https://komarev.com/ghpvc/?username=uxairishere)
 
