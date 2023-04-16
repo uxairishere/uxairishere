@@ -63,5 +63,6 @@
 <a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
 <p>or scan the QR code to navigate<p>
 <img width="150" src="pqrcode.png" alt="QR Code Loading..."/>
- ![](https://komarev.com/ghpvc/?username=uxairishere)
+ 
+![](https://komarev.com/ghpvc/?username=uxairishere)
 
