@@ -60,7 +60,7 @@
  
 </div>
 <h1>My Portfilio</h1>
-<a href="https://uxairishere.github.io/profile">Visit my portfolio by clicking here</a>
+<a href="https://uzairabbas.vercel.app/">Visit my portfolio by clicking here</a>
 <p>or scan the QR code to navigate<p>
 <img width="150" src="portfolio-qr-code.png" alt="QR Code Loading..."/>
 
