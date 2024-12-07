@@ -11,9 +11,6 @@ Specializing in crafting cutting-edge SaaS applications, I excel in Full Stack M
 - **Languages:** JavaScript, TypeScript
 - **Other Tools:** Stripe, Google Maps, Sockets, AI
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxairishere&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxairishere&layout=compact&theme=radical)
 
